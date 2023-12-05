@@ -1,4 +1,4 @@
-# Code Scanning C# Tutorial
+# Code Scanning C# Tutorial  
 
 Welcome to the Code Scanning C# Tutorial! This tutorial will take you through how to set up Github Advanced Security: Code Scanning as well as interpret results that it may find. The following repository contains cross-site scripting vulnerability for demonstration purpose.
 
